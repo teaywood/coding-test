@@ -1,7 +1,11 @@
 # [level 1] 신규 아이디 추천 - 72410 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=python3) 
+---
+## 핵심 아이디어
+- 정규 표현식 사용
 
+---
 ### 성능 요약
 
 메모리: 11.6 MB, 시간: 0.15 ms
