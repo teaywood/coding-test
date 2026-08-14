@@ -2,6 +2,11 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340198) 
 
+---
+## 핵심 개념
+- DP (동적 계획법)
+---
+
 ### 성능 요약
 
 메모리: 11.7 MB, 시간: 3.38 ms
